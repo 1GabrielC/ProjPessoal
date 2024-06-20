@@ -12,9 +12,10 @@ Mais detalhes acesse o site:
 https://github.com/1GabrielC/ProjDemolidor
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Captura1](https://github.com/1GabrielC/ProjPessoal/assets/130706226/d20584fe-69bf-4adb-b432-07153ea97e7f)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Captura2](https://github.com/1GabrielC/ProjPessoal/assets/130706226/3aed85fe-c280-459b-9aca-1a29e850c2b6)
+
 
 ## Front end 
 - HTML / CSS
